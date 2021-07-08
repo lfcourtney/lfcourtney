@@ -11,11 +11,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:html-5.svg" />
-<img align="left" alt="CSS" width="26px" src="https://api.iconify.design/logos:css-3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/logos:javascript.svg" />
-<img align="left" alt="RxJS" width="26px" src="https://gblobscdn.gitbook.com/spaces%2F-LwY_OXUQHvmdEoy0xNa%2Favatar.png?alt=media" />
-<img align="left" alt="NodeJS" width="26px" src="https://api.iconify.design/logos:nodejs-icon.svg" />
+<img align="left" alt="HTML5" height="26px" width="26px" src="https://api.iconify.design/logos:html-5.svg" />
+<img align="left" alt="CSS" height="26px" width="26px" src="https://api.iconify.design/logos:css-3.svg" />
+<img align="left" alt="JavaScript" height="26px" width="26px" src="https://api.iconify.design/logos:javascript.svg" />
+<img align="left" alt="RxJS" height="26px" width="26px" src="https://gblobscdn.gitbook.com/spaces%2F-LwY_OXUQHvmdEoy0xNa%2Favatar.png?alt=media" />
+<img align="left" alt="NodeJS" height="26px" width="26px" src="https://api.iconify.design/logos:nodejs-icon.svg" />
 <img align="left" alt="Express" width="26px" src="https://api.iconify.design/logos:express.svg" />
 <img align="left" alt="NestJS" width="26px" src="https://api.iconify.design/logos:nestjs.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" />
