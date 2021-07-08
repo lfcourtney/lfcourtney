@@ -4,8 +4,8 @@
 
 ### Important Links:
 
-[<img align="left" alt="qixotl_lfc | Portfolio" width="22px" src="https://api.iconify.design/bytesize:portfolio.svg" />][portfolio]
-[<img align="left" alt="qixotl_lfc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="qixotl_lfc | Portfolio" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/351/351456.png" />][portfolio]
+[<img align="left" alt="qixotl_lfc | YouTube" width="26px" height="26px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />][youtube]
 
 <br />
 
@@ -13,6 +13,7 @@
 
 <img align="left" alt="HTML5" height="26px" width="26px" src="https://api.iconify.design/logos:html-5.svg" />
 <img align="left" alt="CSS" height="26px" width="26px" src="https://api.iconify.design/logos:css-3.svg" />
+<img align="left" alt="SASS" height="26px" width="26px" src="https://api.iconify.design/logos:sass.svg" />
 <img align="left" alt="JavaScript" height="26px" width="26px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="RxJS" height="26px" width="26px" src="https://gblobscdn.gitbook.com/spaces%2F-LwY_OXUQHvmdEoy0xNa%2Favatar.png?alt=media" />
 <img align="left" alt="NodeJS" height="26px" width="26px" src="https://api.iconify.design/logos:nodejs-icon.svg" />
@@ -27,6 +28,8 @@
 <img align="left" alt="GraphQL" height="26px" width="26px" src="https://api.iconify.design/logos:graphql.svg" />
 <img align="left" alt="Flutter" height="26px" width="26px" src="https://api.iconify.design/logos:flutter.svg" />
 <img align="left" alt="Python" height="26px" width="26px" src="https://api.iconify.design/logos:python.svg" />
+<img align="left" alt="C#" height="26px" width="26px" src="https://api.iconify.design/logos:c-sharp.svg" />
+<img align="left" alt="SVG" height="26px" width="26px" src="https://api.iconify.design/vscode-icons:file-type-svg.svg" />
 
 [portfolio]: https://luke-courtneys-portfolio.herokuapp.com/
 [youtube]: https://www.youtube.com/channel/UC-xoqfDJ_ZA-ilQiXmrfJXg
