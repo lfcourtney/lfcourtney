@@ -5,7 +5,7 @@
 ### Important Links:
 
 [<img align="left" alt="qixotl_lfc | Portfolio" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/351/351456.png" />][portfolio]
-[<img align="left" alt="qixotl_lfc | YouTube" width="26px" height="60px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />][youtube]
+[<img align="left" alt="qixotl_lfc | YouTube" width="60px" height="26px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />][youtube]
 
 <br />
 
