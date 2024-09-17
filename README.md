@@ -1,10 +1,10 @@
-### Hi, I’m Luke Courtney  👋
+### Hi, I’m Luke Courtney
 
-## JavaScript acumen. A good all-rounder: both front and back-end.
+## Final-year BSc Computer Science student at Aston University; Web Development Hobbyist
 
 ### Important Links:
 
-[<img align="left" alt="qixotl_lfc | Portfolio" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/351/351456.png" />][portfolio]
+[<img align="left" alt="qixotl_lfc | Portfolio" width="26px" height="26px" src="https://b.l3n.co/i/ey3xox.png" />][portfolio]
 [<img align="left" alt="qixotl_lfc | YouTube" width="50px" height="26px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />][youtube]
 
 <br />
@@ -31,5 +31,5 @@
 <img align="left" alt="C#" height="26px" width="26px" src="https://api.iconify.design/logos:c-sharp.svg" />
 <img align="left" alt="SVG" height="26px" width="26px" src="https://api.iconify.design/vscode-icons:file-type-svg.svg" />
 
-[portfolio]: https://luke-courtneys-portfolio.herokuapp.com/
+[portfolio]: https://luke-courtneys-portfolio-single-page-application.pages.dev
 [youtube]: https://www.youtube.com/channel/UC-xoqfDJ_ZA-ilQiXmrfJXg
