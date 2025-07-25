@@ -1,6 +1,6 @@
 ### Hi, I’m Luke Courtney
 
-## Final-year BSc Computer Science student at Aston University; Web Development Hobbyist
+## BSc (Hons) Computer Science graduate; Web Development Hobbyist; Always seeking to expand my skill set
 
 ### Important Links:
 
