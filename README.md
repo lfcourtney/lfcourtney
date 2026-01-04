@@ -1,6 +1,25 @@
 ### Hi, I’m Luke Courtney
 
-## BSc (Hons) Computer Science graduate; Web Development Hobbyist; Always seeking to expand my skill set
+Interested in new ways of thinking, learning and working. Looks to new technologies as ways to make life easier.
+
+Originally, a self-taught, full-stack web developer, I have built on my JavaScript/TypeScript, learning and working with languages such as Java, C#, Python.
+
+Interested in character-driven story telling, I am currently writing a book inspired by The Ragged-Trousered Philanthropists, The Catcher in the Rye, Of Mice and Men and Fahrenheit 451.
+
+*Favourite Book*
+The Ragged-Trousered Philanthropists
+
+*Favourite Movie*
+Aliens (1986)
+
+*Favourite TV Show*
+Edge of Darkness (1985)
+
+*Favourite Source Code Editor*
+Notepad++
+
+*Favourite Programming Language*
+TypeScript
 
 ### Important Links:
 
