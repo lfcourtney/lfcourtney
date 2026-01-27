@@ -2,7 +2,7 @@
 
 Interested in new ways of thinking, learning and working. Looks to new technologies as ways to make life easier.
 
-Originally, a self-taught, full-stack web developer, I have built on my JavaScript/TypeScript, learning and working with languages such as Java, C#, Python.
+Originally, a self-taught, full-stack web developer with a JavaScript/TypeScript foundation and strong CSS skills, I have expanded into learning and working with languages such as Java, C#, Python.
 
 Passionate about character-driven story telling, I am currently writing a book inspired by The Ragged-Trousered Philanthropists, The Catcher in the Rye, Of Mice and Men and Fahrenheit 451.
 
