@@ -4,10 +4,8 @@ Interested in new ways of thinking, learning and working. Looks to new technolog
 
 Originally, a self-taught, full-stack web developer with a JavaScript/TypeScript foundation and strong CSS skills, I have expanded into learning and working with languages such as Java, C#, Python.
 
-Passionate about character-driven story telling, I am currently writing a book inspired by The Ragged-Trousered Philanthropists, The Catcher in the Rye, Of Mice and Men and Fahrenheit 451.
-
 *Favourite Book*
-The Ragged-Trousered Philanthropists
+Ham on Rye, Charles Bukowski
 
 *Favourite Movie*
 Aliens (1986)
