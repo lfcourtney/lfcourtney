@@ -13,6 +13,9 @@ Aliens (1986)
 *Favourite TV Show*
 Edge of Darkness (1985)
 
+*Favourite Album*
+Songs of Faith and Devotion, Depeche Mode
+
 *Favourite Source Code Editor*
 Notepad++
 
