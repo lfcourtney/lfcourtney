@@ -13,8 +13,8 @@ Terminator 2: Judgment Day (1991)
 *Favourite TV Show*
 The X-Files (1993–2002)
 
-*Favourite Album*
-Songs of Faith and Devotion, Depeche Mode
+*Favourite Song*
+Imagine, John Lennon (1971)
 
 *Favourite Source Code Editor*
 Notepad++
