@@ -33,7 +33,7 @@ TypeScript
 We are but visitors on this rock.
 </blockquote>
 
-<br /><br /><br />
+<br />
 
 <blockquote cite="https://archives.depechemode.com/lyrics/enjoythesilence.html">
 <p>
