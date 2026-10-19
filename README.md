@@ -32,3 +32,12 @@ TypeScript
 <blockquote>
 We are but visitors on this rock.
 </blockquote>
+
+<br /><br /><br />
+
+<blockquote cite="https://archives.depechemode.com/lyrics/enjoythesilence.html">
+<p>
+  Pleasures remain. So does the pain. Words are meaningless and forgettable
+</p>
+</blockquote>
+<p>—Enjoy The Silence, <cite>Depeche Mode</cite></p>
