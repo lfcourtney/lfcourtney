@@ -37,7 +37,7 @@ We are but visitors on this rock.
 
 <blockquote cite="https://archives.depechemode.com/lyrics/enjoythesilence.html">
 <p>
-  Pleasures remain. So does the pain. Words are meaningless and forgettable
+  Pleasures remain. So does the pain. Words are meaningless and forgettable.
 </p>
 </blockquote>
 <p>—Enjoy The Silence, <cite>Depeche Mode</cite></p>
