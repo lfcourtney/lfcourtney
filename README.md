@@ -27,7 +27,7 @@ TypeScript
 <a href="https://luke-courtneys-portfolio.pages.dev/" target="_blank"><img align="left" alt="Portfolio" width="26px" height="26px" src="https://b.l3n.co/i/ey3xox.png" /></a>
 <a href="https://www.youtube.com/channel/UC-xoqfDJ_ZA-ilQiXmrfJXg" target="_blank"><img align="left" alt="YouTube" width="50px" height="26px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" /></a>
 
-<br />
+<br /><br /><br />
 
 <blockquote>
 We are but visitors on this rock.
