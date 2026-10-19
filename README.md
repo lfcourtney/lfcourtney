@@ -8,10 +8,10 @@ Originally, a self-taught, full-stack web developer with a JavaScript/TypeScript
 Ham on Rye, Charles Bukowski
 
 *Favourite Movie*
-Aliens (1986)
+Terminator 2: Judgment Day (1991)
 
 *Favourite TV Show*
-Edge of Darkness (1985)
+The X-Files (1993–2002)
 
 *Favourite Album*
 Songs of Faith and Devotion, Depeche Mode
